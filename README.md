@@ -21,7 +21,7 @@ Our View is binded to a ViewModel and notify it with all user interecations. The
 
 ## 📲 Screenshots
 
-<b>Don't forget to add your Public API key (get from https://developer.marvel.com/) before run the app 😜</b>
+<b>Don't forget to add your Marvel Public API key before run the app 😜</b>
 
 <img width="280" alt="portfolio_view" src="https://1.bp.blogspot.com/-MmwItK_kRlY/XsJAz_XC0eI/AAAAAAAAA_g/BOVwcq2Q7P4RDlkmztZU1Ch3BluFkL3sgCLcBGAsYHQ/s1600/Simulator%2BScreen%2BShot%2B-%2BiPhone%2B8%2B-%2B2020-05-18%2Bat%2B10.43.17.png" >  &nbsp; &nbsp; <img width="280" alt="portfolio_view" src="https://1.bp.blogspot.com/-Bdcln8gPNnM/XsJAzIU3O1I/AAAAAAAAA_c/nO1Mt2N64TIwO-d7Vzyov3APH-fqryyBQCLcBGAsYHQ/s1600/Simulator%2BScreen%2BShot%2B-%2BiPhone%2B8%2B-%2B2020-05-18%2Bat%2B10.43.23.png" > &nbsp; &nbsp; <img width="280" alt="portfolio_view" src="https://1.bp.blogspot.com/-Hx2DgnqaHN0/XsJA3MRUFqI/AAAAAAAAA_o/H0AXYbhBim85BZP7a_mp9zI9DAxknTBhwCLcBGAsYHQ/s1600/Simulator%2BScreen%2BShot%2B-%2BiPhone%2B8%2B-%2B2020-05-18%2Bat%2B10.43.25.png" > <br /><br />
 
