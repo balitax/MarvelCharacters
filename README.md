@@ -31,4 +31,4 @@ Our View is binded to a ViewModel and notify it with all user interecations. The
 * Xcode11.0 <br />
 * iOS 13.0 <br /><br /><br />
 
-
+**Don't forget to add your Public API key 😜
