@@ -1,4 +1,4 @@
-# 🦸MarvelCharacters 
+# MarvelCharacters 
 
 ## <br /> 👉 Description
 Sample iOS project built by <b>SwiftUI + MVVM</b> and <b>Combine(Apple's new reactive Framework)</b> using Marvel API.  <br /> <br />
