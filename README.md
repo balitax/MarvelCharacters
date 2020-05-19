@@ -14,7 +14,7 @@ To learn more about Combine, watch the WWDC 2019 talk titled “Introducing Comb
 ## 📖 Architecuture
 In this project we use MVVM.
 
-Our View is binded to a ViewModel and notify it with all user interecations. The ViewModel request to our Data Provides such as Services or Repository to fetch data by using locale database or <b> my MarvelAPI module </b> and then return to our ViewModel that information. 
+Our View is binded to a ViewModel and notify it with all user interecations. The ViewModel request to our Data Provides such as Services or Repository to fetch data by using locale database or <b> network module (MarvelAPI) </b> and then return to our ViewModel that information. 
 
 <img width="600" alt="portfolio_view" src="https://1.bp.blogspot.com/-1pR5uwXSAXI/XsJA1_CIxFI/AAAAAAAAA_k/cNwNi4PoXNwpMj5dMceNPlVXDg-0nsfOQCLcBGAsYHQ/s1600/mvvm-with-swiftui-and-combine-61-638.jpg" ><br /><br />
 
