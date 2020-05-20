@@ -1,7 +1,7 @@
 # 🦸MarvelCharacters 
 
 ## <br /> 👉 Description
-Sample iOS project built by <b>SwiftUI + MVVM</b> and <b>Combine(Apple's new reactive Framework)</b> using Marvel API.  <br /> <br />
+A Sample App to discover Apple's new reactive Framework <b>Combine</b> and new UI Framework <b>SwiftUI</b> <br /> <br />
 
 
 ## 🚀 About Combine  
