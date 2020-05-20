@@ -1,7 +1,7 @@
 # 🦸MarvelCharacters 
 
 ## <br /> 👉 Description
-A Sample App to discover Apple's new reactive Framework <b>Combine</b> and new UI Framework <b>SwiftUI</b> <br /> <br />
+A Sample App to discover Apple's new reactive Framework <b>Combine</b> and new UI Framework <b>SwiftUI.</b> <br /> <br />
 
 
 ## 🚀 About Combine  
